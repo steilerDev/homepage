@@ -1057,6 +1057,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Xing */
+.button.button-xing {
+  color: #ffffff;
+  background-color: #026466;
+}
+.button.button-xing:hover,
+.button.button-xing:focus {
+  filter: brightness(90%);
+}
+
 /* YouTube */
 .button.button-yt {
   color: #ffffff;
